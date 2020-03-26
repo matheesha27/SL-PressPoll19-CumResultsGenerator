@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PresPoll Results</string>
+    <string name="topic"> Presidential Election 2019</string>
+    <string name="topic2"> Cumulative Results Generator</string>
+    <string name="candidate1"> Gotabhaya Rajapakse</string>
+    <string name="candidate2"> Sajith Premadasa</string>
+    <string name="select"> Select District and Electorate</string>
+    <string name="add">Add</string>
+    <string name="view">View Results</string>
+    <string name="Votes"> Votes</string>
+    <string name="cumResult"> Cumulative Result</string>
+    <string name="lead"> Lead </string>
+    <string name="text1"> Electorate </string>
+    <string name="text2"> VoteCount </string>
+</resources>
